@@ -1,6 +1,6 @@
 # FTP-Client
 **Compiling Instructions**:
-1. Download the source directory.
+1. Download the [**source directory**](../master/src).
 2. Compile it with javac in terminal with JavaSE-1.7 without additional jars, **OR**
 3. Create a project with the source file in Eclipse and run it.
 
