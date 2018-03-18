@@ -17,9 +17,7 @@
 
 **Note:** 
 1. Long-waiting for commands may lead to disconnection.
-2. The file to upload should be in the current directory.
-	
-	e.g. if the file is “lingbo.txt”:
+2. The file to upload should be in the current directory. If the file is “lingbo.txt”:
 	1) In Eclipse, put it here in the project: /FTPClient/lingbo.txt.
 	2) In terminal, put it in the current directory.
 
