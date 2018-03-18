@@ -5,15 +5,15 @@
 3. Create a project with **/src** in Eclipse and run it.
 
 
-Running Instructions:
-			1. Type “myftp inet.cis.fiu.edu” to start a connection.
-			2. Type “demo” as username.
-			3. Type “demopass” as password.
-			4. Type “ls” to get a file listing of current directory.
-			5. Type “put filename” to upload a file to the server.
-			6. Type “get filename” to download a file from the server.
-			7. Type “delete filename” to delete a file on the server.
-      			8. Type “quit” to quit the ftp client.
+**Running Instructions:**
+1. Type “myftp inet.cis.fiu.edu” to start a connection.
+2. Type “demo” as username.
+3. Type “demopass” as password.
+4. Type “ls” to get a file listing of current directory.
+5. Type “put filename” to upload a file to the server.
+6. Type “get filename” to download a file from the server.
+7. Type “delete filename” to delete a file on the server.
+8. Type “quit” to quit the ftp client.
 
 * Note: 
 	1. Long waiting for commands may lead to disconnection.
